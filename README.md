@@ -1,6 +1,5 @@
 # Flutter-Whatsapp-UI-Clone
 
-![Whatsapp UI](https://github.com/nobelleon/Flutter-Whatsapp-UI-Clone/assets/76748114/7d24fb4e-b6e3-426f-8e25-2df4f3c9affd)
 
 A new Flutter project.      
 
