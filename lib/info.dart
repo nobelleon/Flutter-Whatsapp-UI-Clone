@@ -93,7 +93,7 @@ const messages = [
   },
   {
     "isMe": false,
-    "text": "Rivaan Ranawat",
+    "text": "Darren Smith",
     "time": "11:06 am",
   },
   {
