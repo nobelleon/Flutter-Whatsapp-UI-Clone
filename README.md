@@ -2,6 +2,10 @@
 
 ![Whatsapp UI](https://github.com/nobelleon/Flutter-Whatsapp-UI-Clone/assets/76748114/1e5be579-c90c-497e-91bb-a660b144f038)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.       
 
 ## Getting Started
